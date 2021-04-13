@@ -1,0 +1,11 @@
+1. ls -la: shows list of all files/folders including hidden files/folders
+
+2. cd: changes directory
+
+3. mkdir: creates a new folder
+
+4. touch: creates a new file
+
+5. code . :opens VSCode
+
+6. pwd: print working directory tells you where you are in the terminal
